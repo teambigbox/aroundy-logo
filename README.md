@@ -27,6 +27,8 @@
 |        [Primary](./assets/logo-primary.svg)         |        [Black](./assets/logo-black.svg)         |
 |        ![](./assets/logo-primary-square.svg)        |       ![](./assets/logo-black-square.svg)       |
 | [Primary, Square](./assets/logo-primary-square.svg) | [Black, Square](./assets/logo-black-square.svg) |
+|        ![](./assets/logo-primary-circle.svg)        |       ![](./assets/logo-black-circle.svg)       |
+| [Primary, Circle](./assets/logo-primary-circle.svg) | [Black, Circle](./assets/logo-black-circle.svg) |
 
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
