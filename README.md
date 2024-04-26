@@ -21,14 +21,16 @@
 
 ## Logos
 
-|                    Primary                     |                   Black                    |                   White                    |
-| :--------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
-|           ![](./assets/primary.svg)            |          ![](./assets/black.svg)           |          ![](./assets/white.svg)           |
-|        [Primary](./assets/primary.svg)         |        [Black](./assets/black.svg)         |        [White](./assets/white.svg)         |
-|        ![](./assets/primary-square.svg)        |       ![](./assets/black-square.svg)       |       ![](./assets/white-square.svg)       |
-| [Primary, Square](./assets/primary-square.svg) | [Black, Square](./assets/black-square.svg) | [White, Square](./assets/white-square.svg) |
-|        ![](./assets/primary-circle.svg)        |       ![](./assets/black-circle.svg)       |       ![](./assets/white-circle.svg)       |
-| [Primary, Circle](./assets/primary-circle.svg) | [Black, Circle](./assets/black-circle.svg) | [White, Circle](./assets/white-circle.svg) |
+|                             Primary                              |                            Black                             |                            White                             |
+| :--------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                    ![](./assets/primary.svg)                     |                   ![](./assets/black.svg)                    |                   ![](./assets/white.svg)                    |
+|                 [Primary](./assets/primary.svg)                  |                 [Black](./assets/black.svg)                  |                 [White](./assets/white.svg)                  |
+|                 ![](./assets/primary-square.svg)                 |                ![](./assets/black-square.svg)                |                ![](./assets/white-square.svg)                |
+|          [Primary, Square](./assets/primary-square.svg)          |          [Black, Square](./assets/black-square.svg)          |          [White, Square](./assets/white-square.svg)          |
+|                 ![](./assets/primary-circle.svg)                 |                ![](./assets/black-circle.svg)                |                ![](./assets/white-circle.svg)                |
+|          [Primary, Circle](./assets/primary-circle.svg)          |          [Black, Circle](./assets/black-circle.svg)          |          [White, Circle](./assets/white-circle.svg)          |
+|            ![](./assets/primary-square-centered.svg)             |           ![](./assets/black-square-centered.svg)            |           ![](./assets/white-square-centered.svg)            |
+| [Primary, square-centered](./assets/primary-square-centered.svg) | [Black, square-centered](./assets/black-square-centered.svg) | [White, square-centered](./assets/white-square-centered.svg) |
 
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
