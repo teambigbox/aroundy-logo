@@ -21,16 +21,28 @@
 
 ## Logos
 
-|                             Primary                              |                            Black                             |                            White                             |
-| :--------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                    ![](./assets/primary.svg)                     |                   ![](./assets/black.svg)                    |                   ![](./assets/white.svg)                    |
-|                 [Primary](./assets/primary.svg)                  |                 [Black](./assets/black.svg)                  |                 [White](./assets/white.svg)                  |
-|                 ![](./assets/primary-square.svg)                 |                ![](./assets/black-square.svg)                |                ![](./assets/white-square.svg)                |
-|          [Primary, Square](./assets/primary-square.svg)          |          [Black, Square](./assets/black-square.svg)          |          [White, Square](./assets/white-square.svg)          |
-|                 ![](./assets/primary-circle.svg)                 |                ![](./assets/black-circle.svg)                |                ![](./assets/white-circle.svg)                |
-|          [Primary, Circle](./assets/primary-circle.svg)          |          [Black, Circle](./assets/black-circle.svg)          |          [White, Circle](./assets/white-circle.svg)          |
-|            ![](./assets/primary-square-centered.svg)             |           ![](./assets/black-square-centered.svg)            |           ![](./assets/white-square-centered.svg)            |
-| [Primary, square-centered](./assets/primary-square-centered.svg) | [Black, square-centered](./assets/black-square-centered.svg) | [White, square-centered](./assets/white-square-centered.svg) |
+|                       Primary                       |                      Black                      |                      White                      |
+| :-------------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
+|              ![](./assets/primary.svg)              |             ![](./assets/black.svg)             |             ![](./assets/white.svg)             |
+|                 [Primary][primary]                  |                 [Black][black]                  |                 [White][white]                  |
+|          ![](./assets/primary-square.svg)           |         ![](./assets/black-square.svg)          |         ![](./assets/white-square.svg)          |
+|          [Primary, Square][primary-square]          |          [Black, Square][black-square]          |          [White, Square][white-square]          |
+|          ![](./assets/primary-circle.svg)           |         ![](./assets/black-circle.svg)          |         ![](./assets/white-circle.svg)          |
+|          [Primary, Circle][primary-circle]          |          [Black, Circle][black-circle]          |          [White, Circle][white-circle]          |
+|      ![](./assets/primary-square-centered.svg)      |     ![](./assets/black-square-centered.svg)     |     ![](./assets/white-square-centered.svg)     |
+| [Primary, square-centered][primary-square-centered] | [Black, square-centered][black-square-centered] | [White, square-centered][white-square-centered] |
 
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[primary]: ./assets/primary.svg
+[black]: ./assets/black.svg
+[white]: ./assets/white.svg
+[primary-square]: ./assets/primary-square.svg
+[black-square]: ./assets/black-square.svg
+[white-square]: ./assets/white-square.svg
+[primary-circle]: ./assets/primary-circle.svg
+[black-circle]: ./assets/black-circle.svg
+[white-circle]: ./assets/white-circle.svg
+[primary-square-centered]: ./assets/primary-square-centered.svg
+[black-square-centered]: ./assets/black-square-centered.svg
+[white-square-centered]: ./assets/white-square-centered.svg
