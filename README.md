@@ -15,9 +15,9 @@
 
 <img src="./assets/pallet.png" width="400" />
 
-| Variant | Common Color Name | Hex       | RGB                 | CMYK                      | HSL                  |
-| ------- | ----------------- | --------- | ------------------- | ------------------------- | -------------------- |
-| Primary | Persian Green     | `#12B890` | `rgb(18, 184, 144)` | `cmyk(90%, 0%, 22%, 28%)` | `hsl(165, 82%, 40%)` |
+| Variant | Common Color Name | Hex       | RGB                 | HSL                  |
+| ------- | ----------------- | --------- | ------------------- | -------------------- |
+| Primary | Persian Green     | `#12B890` | `rgb(18, 184, 144)` | `hsl(165, 82%, 40%)` |
 
 ## Logos
 
