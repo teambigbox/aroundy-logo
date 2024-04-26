@@ -21,14 +21,14 @@
 
 ## Logos
 
-|                                                     |                                                 |
-| :-------------------------------------------------: | :---------------------------------------------: |
-|           ![](./assets/logo-primary.svg)            |          ![](./assets/logo-black.svg)           |
-|        [Primary](./assets/logo-primary.svg)         |        [Black](./assets/logo-black.svg)         |
-|        ![](./assets/logo-primary-square.svg)        |       ![](./assets/logo-black-square.svg)       |
-| [Primary, Square](./assets/logo-primary-square.svg) | [Black, Square](./assets/logo-black-square.svg) |
-|        ![](./assets/logo-primary-circle.svg)        |       ![](./assets/logo-black-circle.svg)       |
-| [Primary, Circle](./assets/logo-primary-circle.svg) | [Black, Circle](./assets/logo-black-circle.svg) |
+|                    Primary                     |                   Black                    |                   White                    |
+| :--------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|           ![](./assets/primary.svg)            |          ![](./assets/black.svg)           |          ![](./assets/white.svg)           |
+|        [Primary](./assets/primary.svg)         |        [Black](./assets/black.svg)         |        [White](./assets/white.svg)         |
+|        ![](./assets/primary-square.svg)        |       ![](./assets/black-square.svg)       |       ![](./assets/white-square.svg)       |
+| [Primary, Square](./assets/primary-square.svg) | [Black, Square](./assets/black-square.svg) | [White, Square](./assets/white-square.svg) |
+|        ![](./assets/primary-circle.svg)        |       ![](./assets/black-circle.svg)       |       ![](./assets/white-circle.svg)       |
+| [Primary, Circle](./assets/primary-circle.svg) | [Black, Circle](./assets/black-circle.svg) | [White, Circle](./assets/white-circle.svg) |
 
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
