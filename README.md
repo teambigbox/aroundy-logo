@@ -15,9 +15,15 @@
 
 <img src="./assets/pallet.png" width="400" />
 
-| Variant | Common Color Name | Hex       | RGB                 | HSL                  |
-| ------- | ----------------- | --------- | ------------------- | -------------------- |
-| Primary | Persian Green     | `#12B890` | `rgb(18, 184, 144)` | `hsl(165, 82%, 40%)` |
+| Variant | Common Color Name | Hex       | RGB                  | HSL                  |
+| ------- | ----------------- | --------- | -------------------- | -------------------- |
+| Primary | Persian Green     | `#12B890` | `rgb(18, 184, 144)`  | `hsl(165, 82%, 40%)` |
+| Black   | Black             | `#000000` | `rgb(0, 0, 0)`       | `hsl(0, 0%, 0%)`     |
+| White   | White             | `#FFFFFF` | `rgb(255, 255, 255)` | `hsl(0, 0%, 100%)`   |
+
+로고 색상은 총 3가지가 존재하며, 메인 브랜드 색상은 `Primary`를 사용합니다.
+
+로고 색이 배경과 구분이 어려울 경우, `Black` 또는 `White`를 사용합니다.
 
 ## Logos
 
