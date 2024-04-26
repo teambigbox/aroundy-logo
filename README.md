@@ -21,28 +21,44 @@
 
 ## Logos
 
-|                       Primary                       |                      Black                      |                      White                      |
-| :-------------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
-|              ![](./assets/primary.svg)              |             ![](./assets/black.svg)             |             ![](./assets/white.svg)             |
-|                 [Primary][primary]                  |                 [Black][black]                  |                 [White][white]                  |
-|          ![](./assets/primary-square.svg)           |         ![](./assets/black-square.svg)          |         ![](./assets/white-square.svg)          |
-|          [Primary, Square][primary-square]          |          [Black, Square][black-square]          |          [White, Square][white-square]          |
-|          ![](./assets/primary-circle.svg)           |         ![](./assets/black-circle.svg)          |         ![](./assets/white-circle.svg)          |
-|          [Primary, Circle][primary-circle]          |          [Black, Circle][black-circle]          |          [White, Circle][white-circle]          |
-|      ![](./assets/primary-square-centered.svg)      |     ![](./assets/black-square-centered.svg)     |     ![](./assets/white-square-centered.svg)     |
-| [Primary, square-centered][primary-square-centered] | [Black, square-centered][black-square-centered] | [White, square-centered][white-square-centered] |
+|                         Primary                          |                        Black                         |                        White                         |
+| :------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+|                ![](./assets/primary.svg)                 |               ![](./assets/black.svg)                |               ![](./assets/white.svg)                |
+|                         Primary                          |                        Black                         |                        White                         |
+|             [SVG][primary] [PNG][primary-p]              |             [SVG][black] [PNG][black-p]              |             [SVG][white] [PNG][white-p]              |
+|             ![](./assets/primary-square.svg)             |            ![](./assets/black-square.svg)            |            ![](./assets/white-square.svg)            |
+|                     Primary, Square                      |                    Black, Square                     |                    White, Square                     |
+|      [SVG][primary-square] [PNG][primary-square-p]       |      [SVG][black-square] [PNG][black-square-p]       |      [SVG][white-square] [PNG][white-square-p]       |
+|             ![](./assets/primary-circle.svg)             |            ![](./assets/black-circle.svg)            |            ![](./assets/white-circle.svg)            |
+|                     Primary, Circle                      |                    Black, Circle                     |                    White, Circle                     |
+|      [SVG][primary-circle] [PNG][primary-circle-p]       |      [SVG][black-circle] [PNG][black-circle-p]       |      [SVG][white-circle] [PNG][white-circle-p]       |
+|        ![](./assets/primary-square-centered.svg)         |       ![](./assets/black-square-centered.svg)        |       ![](./assets/white-square-centered.svg)        |
+|                 Primary, Square, Centerd                 |                Black, Square, Centerd                |               White, Square, Centered                |
+| [SVG][primary-centered] [PNG][primary-square-centered-p] | [SVG][black-centered] [PNG][black-square-centered-p] | [SVG][white-centered] [PNG][white-square-centered-p] |
 
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [primary]: ./assets/primary.svg
+[primary-p]: ./assets/primary.png
 [black]: ./assets/black.svg
+[black-p]: ./assets/black.png
 [white]: ./assets/white.svg
+[white-p]: ./assets/white.png
 [primary-square]: ./assets/primary-square.svg
+[primary-square-p]: ./assets/primary-square.png
 [black-square]: ./assets/black-square.svg
+[black-square-p]: ./assets/black-square.png
 [white-square]: ./assets/white-square.svg
+[white-square-p]: ./assets/white-square.png
 [primary-circle]: ./assets/primary-circle.svg
+[primary-circle-p]: ./assets/primary-circle.png
 [black-circle]: ./assets/black-circle.svg
+[black-circle-p]: ./assets/black-circle.png
 [white-circle]: ./assets/white-circle.svg
-[primary-square-centered]: ./assets/primary-square-centered.svg
-[black-square-centered]: ./assets/black-square-centered.svg
-[white-square-centered]: ./assets/white-square-centered.svg
+[white-circle-p]: ./assets/white-circle.png
+[primary-centered]: ./assets/primary-square-centered.svg
+[primary-square-centered-p]: ./assets/primary-square-centered.png
+[black-centered]: ./assets/black-square-centered.svg
+[black-square-centered-p]: ./assets/black-square-centered.png
+[white-centered]: ./assets/white-square-centered.svg
+[white-square-centered-p]: ./assets/white-square-centered.png
